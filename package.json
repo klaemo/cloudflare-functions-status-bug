@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cloudflare/pages-plugin-honeycomb": "^1.0.1",
-    "@cloudflare/pages-plugin-sentry": "^1.1.0",
-    "wrangler": "^2.7.1"
+    "@cloudflare/pages-plugin-honeycomb": "^1.0.2",
+    "@cloudflare/pages-plugin-sentry": "^1.1.1",
+    "wrangler": "^2.9.1"
   }
 }
